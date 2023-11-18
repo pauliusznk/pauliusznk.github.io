@@ -9,10 +9,30 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 01:06:55 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2023 01:27:10 +0200</lastBuildDate>
     
 	<atom:link href="https://pauliusznk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dogs</title>
+      <link>https://pauliusznk.github.io/posts/dogs/</link>
+      <pubDate>Sun, 19 Nov 2023 01:27:10 +0200</pubDate>
+      
+      <guid>https://pauliusznk.github.io/posts/dogs/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          const colors = [&amp;#39;red&amp;#39;, &amp;#39;blue&amp;#39;, &amp;#39;green&amp;#39;, &amp;#39;yellow&amp;#39;]; const randomColor = colors[getRandomNumber(0, colors.length - 1)]; document.body.style.backgroundColor = randomColor; const user = { name: &amp;#39;Alice&amp;#39;, age: getRandomNumber(20, 30), city: &amp;#39;Wonderland&amp;#39;, }; console.log(`User: ${JSON.stringify(user, null, 2)}`); for (let i = 0; i &amp;lt; 5; i++) { console.log(`Iteration ${i + 1}`); } const square = (x) =&amp;gt; x \* x; console.log(`Square of 5: ${square(5)}`); const isPrime = (num) =&amp;gt; { for (let i = 2; i &amp;lt; num; i++) { if (num % i === 0) { return false; } } return num !
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Welcome</title>
